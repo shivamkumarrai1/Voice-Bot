@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding-top: 80px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+button {
+    font-size: 18px;
+    padding: 12px 30px;
+    border-radius: 8px;
+    background: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+p {
+    margin-top: 20px;
+    font-size: 18px;
+}
