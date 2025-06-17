@@ -74,7 +74,7 @@ const App = () => {
     return ( <
         div className = "app-container" >
         <
-        h1 > 🎙️ChatGPT VoiceBot < /h1> <
+        h1 > ChatGPT VoiceBot < /h1> <
         button onClick = { startListening }
         disabled = { isListening || isResponding } > { isListening ? '🎤 Listening...' : isResponding ? '🤖 Responding...' : '🎙️ Start Talking' } <
         /button>
